@@ -30,9 +30,10 @@ Le but technique du projet est moins le développement du site que la **maîtris
 ### Branches
 - `main` : version stable du site
 - `feature-header` : création du header (Zayneb)
-- `feature-contenu` : ajout du contenu texte (Amine)
-- `feature-style` : design et mise en page CSS (Sara)
-- `feature-interactions` : scripts d’interactions JS (Youssef)
+- `feature-contenu` : ajout du contenu texte (Zayneb Souissi)
+- `feature-contenu` : ajout du contenu texte (Maram Zribit)
+- `feature-style` : design et mise en page CSS (Souha)
+- `feature-interactions` : scripts d’interactions JS (Fady Dridi)
 
 
 

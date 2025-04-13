@@ -10,11 +10,18 @@ Le but technique du projet est moins le développement du site que la **maîtris
 
 ## 👨‍👩‍👧‍👦 Équipe de développement
 
+<<<<<<< HEAD
 - 👩 Zayneb Chikhrouhou (Coordination, structure HTML, header)
 - 👨 Zayneb Souissi (Rédaction du contenu sur la 5G)
 - 👨 Maram Zribit (Rédaction du contenu sur la 5G)
 - 👩 Souha (Conception visuelle, style CSS)
 - 👨 Fady Dridi (Interactions avec JavaScript)
+=======
+- 👩 Zayneb (Coordination, structure HTML, header)
+- 👨 Amine (Rédaction du contenu sur la 5G)
+- 👩 Sara (Conception visuelle, style CSS)
+- 👨 Youssef (Interactions avec JavaScript)
+>>>>>>> feature-header
 
 ---
 
@@ -40,3 +47,7 @@ Le but technique du projet est moins le développement du site que la **maîtris
 
 ## 📦 Structure du dépôt
 
+HEAD
+Contenu actuel de la branche `main`
+Contenu venant de la branche `feature-header`
+feature-header

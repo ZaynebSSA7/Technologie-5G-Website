@@ -6,22 +6,15 @@ Ce projet a été réalisé dans le cadre d’un travail collaboratif afin d’a
 
 Le but technique du projet est moins le développement du site que la **maîtrise des outils de travail collaboratif**.
 
----
 
 ## 👨‍👩‍👧‍👦 Équipe de développement
 
+👩 Zayneb Chikhrouhou (Coordination, structure HTML, header)
+👨 Zayneb Souissi (Rédaction du contenu sur la 5G)
+👨 Maram Zribit (Rédaction du contenu sur la 5G)
+👩 Souha (Conception visuelle, style CSS)
+👨 Fady Dridi (Interactions avec JavaScript)
 
-- 👩 Zayneb (Coordination, structure HTML, header)
-- 👨 Amine (Rédaction du contenu sur la 5G)
-- 👩 Sara (Conception visuelle, style CSS)
-- 👨 Youssef (Interactions avec JavaScript)
-- 👩 Zayneb Chikhrouhou (Coordination, structure HTML, header)
-- 👨 Zayneb Souissi (Rédaction du contenu sur la 5G)
-- 👨 Maram Zribit (Rédaction du contenu sur la 5G)
-- 👩 Souha (Conception visuelle, style CSS)
-- 👨 Fady Dridi (Interactions avec JavaScript)
-
----
 
 ## 🧰 Technologies utilisées
 
@@ -41,7 +34,8 @@ Le but technique du projet est moins le développement du site que la **maîtris
 - `feature-style` : design et mise en page CSS (Sara)
 - `feature-interactions` : scripts d’interactions JS (Youssef)
 
----
+
 
 ## 📦 Structure du dépôt
+
 
